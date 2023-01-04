@@ -93,3 +93,4 @@ refreshBtn.addEventListener('click', shuffleCards)
 cards.forEach(card => {
     card.addEventListener('click', flipCard)
 })
+
